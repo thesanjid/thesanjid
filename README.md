@@ -74,7 +74,7 @@ Meanwhile, explore my work here:
 ---
 
 ## 📫 Contact
-- 📧 Email: **your-email@example.com**
+- 📧 Email: sanjidhasan1996@gmail.com
 - 💼 GitHub: https://github.com/thesanjid  
 
 ---
