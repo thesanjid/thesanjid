@@ -55,7 +55,7 @@ I specialize in building **responsive UIs**, **REST APIs**, and **full-stack MER
 ---
 
 ## 🌐 Portfolio
-🚧 **Portfolio Website (Coming Soon)**  
+🚧 https://thenamesanjid.com/ (underconstruction)**  
 
 Meanwhile, explore my work here:  
 🔗 **GitHub:** https://github.com/thesanjid  
