@@ -12,7 +12,9 @@ I specialize in building **responsive UIs**, **REST APIs**, and **full-stack MER
 - 🔹 Frontend & Backend Development  
 - 🔹 MERN Stack Applications  
 - 🔹 WordPress Customization & SEO  
-- 🔹 Clean, maintainable & scalable code  
+- 🔹 Clean, maintainable & scalable code
+- 🔹  Responsive web design (RWD)
+
 
 ---
 
