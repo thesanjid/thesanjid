@@ -76,7 +76,7 @@ Meanwhile, explore my work here:
 ---
 
 ## 📫 Contact
-- 📧 Email: sanjidhasan1996@gmail.com
+- 📧 Email: hsanjid07@gmail.com
 - 💼 GitHub: https://github.com/thesanjid  
 
 ---
